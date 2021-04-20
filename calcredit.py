@@ -23,9 +23,9 @@ data_credit_require = {
     "01076263": 1,  # ds
     "01076013": 1,  # theory
     "01076014": 1,  # pre project
-    "01076311": 1,  # pro 1
+    # "01076311": 1,  # pro 1
     "01076015": 1,  # com eng pro dev
-    "01076312": 1   # pro 2
+    # "01076312": 1   # pro 2
 }
 
 data_credit_elective = {
